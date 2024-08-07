@@ -1,6 +1,4 @@
-Chapter 1
-Mauris turpis nunc blandit et
-
+Chapter 2
 Vestibulum rutrum, mi nec elementum vehicula, eros quam gravida nisl, id fringilla neque ante vel mi. Nullam accumsan lorem in dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed lectus. Praesent turpis.
 
 Phasellus gravida semper nisi. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In consectetuer turpis ut velit. Fusce vulputate eleifend sapien.
@@ -30,4 +28,3 @@ Etiam iaculis nunc ac metus. Nulla neque dolor, sagittis eget, iaculis quis, mol
 Sed hendrerit. Ut a nisl id ante tempus hendrerit. Maecenas vestibulum mollis diam. Phasellus magna. Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est.
 
 Etiam rhoncus. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. Phasellus a est. Vestibulum eu odio. Sed aliquam ultrices mauris.
-
